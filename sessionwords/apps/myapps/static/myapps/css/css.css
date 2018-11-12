@@ -1,0 +1,34 @@
+.box{
+	vertical-align: top;
+	display: inline-block;
+	width: 500px;
+}
+.message{
+	color: red;
+}
+form{
+	width: 450px;
+}
+.red{
+	color: red;
+}
+.green{
+	color: green;
+}
+.blue{
+	color: blue;
+}
+.big{
+	font-size: 1.8em;
+}
+
+.small{
+	font-size: 1.2em;
+}
+#time{
+	color: black;
+	font-size:.7em;
+}
+a{
+	margin-left: 400px;
+}
